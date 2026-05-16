@@ -1,5 +1,6 @@
 # UniqueInstance-for-AHK
 AutoHotkey v2 程序权限提升、单实例运行管理库，让 AHK 程序在不同系统权限下最大限度的保持单实例运行。
+* 解决：#SingleInstance 不能有条件地执行，配置 Force 普通权限实例无法关闭高权限实例。
 
 使用说明
 ====
